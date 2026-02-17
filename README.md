@@ -18,6 +18,15 @@ Welcome to my GitHub profile!
 ![](https://nirzak-streak-stats.vercel.app/?user=Harith-Y&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Harith-Y&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+
+## Performance Metrics
+
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Harith-Y&show_icons=true&theme=tokyonight&hide_border=true" alt="Ghua8088 Stats" height="170" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Harith-Y&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170" />
+</p>
+
+
 ## 🔝 Contributions
 ![](https://github-contributor-stats.vercel.app/api?username=Harith-Y&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
