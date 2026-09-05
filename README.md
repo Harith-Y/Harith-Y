@@ -3,7 +3,7 @@
 Welcome to my GitHub profile!
 
 # About Me:
-- I'm currently a 2nd Year Computer Science and Engineering Student, working on various exciting projects.
+- I'm currently a 3rd Year Computer Science and Engineering Student, working on various exciting projects.
 - With my curiosity, I love to constantly learn and improve my skills.
 - I’m looking to collaborate on open-source projects and participate in Hackathons.
 - Currently my focus is in the fields of Neural Networks and Web Development.
